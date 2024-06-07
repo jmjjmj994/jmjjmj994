@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Jonathan.
+Frontend developer based in Bergen, Norway.
+
+I'm currently working on creating a website for Lovha Studio 3D
 <!--
 **jmjjmj994/jmjjmj994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
